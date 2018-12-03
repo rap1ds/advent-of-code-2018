@@ -1,4 +1,4 @@
-(ns advent-of-code-2018.day1
+(ns advent-of-code-2018.day1.day1
   (:require [devcards.core :refer-macros [defcard-rg]]
             [clojure.string :as str]
             [advent-of-code-2018.day1.input :as input]))
