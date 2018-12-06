@@ -1,3 +1,4 @@
+^{:repl-eval-timeout 20000}
 {:main advent-of-code-2018.core
  :asset-path "/cljs-out/dev"
  :devcards true}
