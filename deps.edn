@@ -1,6 +1,7 @@
 {:paths ["src" "target" "resources"]
  :deps
- {org.clojure/clojurescript {:mvn/version "1.10.439"}
+ {org.clojure/clojure {:mvn/version "1.10.0-RC3"}
+  org.clojure/clojurescript {:mvn/version "1.10.439"}
   com.bhauman/figwheel-main {:mvn/version "0.1.9"}
   reagent {:mvn/version "0.8.1"}
   devcards {:mvn/version "0.2.6"}}}
